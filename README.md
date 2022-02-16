@@ -6,11 +6,12 @@ and observing how it evolves.
 
 
 ## Acceptance criteria
-At initial state, User should see an empty board.
-User can make Cells &quot;alive&quot;.
-User can make Cells &quot;dead&quot;.
-User can trigger &quot;next generation&quot;.
-User can trigger a &quot;reset&quot; to the initial state.
+
+### At initial state, User should see an empty board.
+### User can make Cells &quot;alive&quot;.
+### User can make Cells &quot;dead&quot;.
+### User can trigger &quot;next generation&quot;.
+### User can trigger a &quot;reset&quot; to the initial state.
 
 
 ## Installation 
